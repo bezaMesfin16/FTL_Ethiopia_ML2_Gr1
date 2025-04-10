@@ -5,7 +5,8 @@
 ### Group 1 Members
 - Beza Mesfin Mekuria 
 - Nahom Temesgen Nadew
-- Natneal Amsalu 
+- Natneal Amsalu
+- Samuel Gashu Getahun 
 
 ### 📌 Project Overview
 
