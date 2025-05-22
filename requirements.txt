@@ -1,0 +1,18 @@
+requests   
+transformers 
+tensorflow 
+sentence-transformers 
+langchain 
+numpy 
+gensim 
+textblob 
+tqdm
+pinecone[grpc] 
+langchain-pinecone 
+langchain_community 
+langchain_experimental 
+pinecone-client
+Streamlit
+google-generativeai
+langchain-google-genai
+#-e .
