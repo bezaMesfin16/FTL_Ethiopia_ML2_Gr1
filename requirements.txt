@@ -11,7 +11,7 @@ pinecone[grpc]
 langchain-pinecone 
 langchain_community 
 langchain_experimental 
-pinecone-client
+pinecone
 Streamlit
 google-generativeai
 langchain-google-genai
