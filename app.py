@@ -23,8 +23,11 @@ st.write("Please note that this is for informational purposes only and not a sub
 
 # Load environment variables
 load_dotenv()
-PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY')
-GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY')
+
+PINECONE_API_KEY =st.secrets['PINECONE_API_KEY']
+GOOGLE_API_KEY =st.secrets['GOOGLE_API_KEY']
+
+
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
