@@ -15,4 +15,4 @@ pinecone-client
 Streamlit
 google-generativeai
 langchain-google-genai
-#-e .
+-e .
